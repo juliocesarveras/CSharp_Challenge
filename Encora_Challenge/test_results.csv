@@ -1,0 +1,15 @@
+TotalTestCases,PassedTestCases,FailedTestCases,AverageExecutionTime,MinExecutionTime,MaxExecutionTime
+10,7,3,1.904,0.58,3.1
+
+
+Test Case Name,Status,Execution Time,Time Stamp
+Test case - Login to App,Pass,1.56,10/24/2023 09:00:00
+Test Case open document,Fail,2.3,10/24/2023 09:15:00
+Test Case - Fill the registration form,Pass,1.8,10/24/2023 09:30:00
+Test Case - Send a contact message,Pass,1.2,10/24/2023 09:45:00
+Test Case - Create a new document,Fail,2.9,10/24/2023 10:00:00
+Test case - Login out,Pass,1.5,10/24/2023 09:00:00
+Test Case - Create new user,Fail,2.3,10/24/2023 09:15:00
+Test Case - 08,Pass,1.8,10/24/2023 09:30:00
+Test Case - Send message,Pass,0.58,10/24/2023 09:45:00
+Test Case - Delete document,Pass,3.1,10/24/2023 10:00:00

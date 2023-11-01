@@ -34,10 +34,13 @@ Modularity and SOLID Principles: Design the code in a modular way,
 Instructions for executing the script:
 
 Create a C# project in your development environment.
+
 Add the Newtonsoft.Json and CsvHelper NuGet packages to your project to handle JSON and CSV processing. You can install these packages using NuGet Package Manager.
+
 Replace the file paths jsonFilePath and csvFilePath in the Main method with the paths to your JSON input file and the desired CSV output file (I provided two files as examples). 
+
 Build and run the project.
+
 The format of the JSON file created is a plain JSON object array. This is a common and standard format for representing a list of objects in JSON. Each object in the array represents a test case result with properties such as TestName, Status, ExecutionTime, and Timestamp. This JSON format is a structured way to store data with each object having key-value pairs.
 
  The script is designed with modularity and adheres to SOLID principles for maintainability and extensibility.
-Karina Evaristo
